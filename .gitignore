@@ -1,0 +1,16 @@
+/build
+/dist
+/*.egg-info
+/coverage
+/.coverage
+/MANIFEST
+*.pyc
+*.swp
+.tox
+.hypothesis
+.benchmarks
+
+# Wercker directories
+_builds
+_projects
+_steps
